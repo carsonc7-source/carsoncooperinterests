@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rocket League Fan Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0d1b2a, #1b263b);
+      color: #e0e1dd;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #415a77;
+      padding: 20px 0;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+    h1 {
+      color: #ffd700;
+      margin: 0;
+    }
+    main {
+      padding: 40px 20px;
+    }
+    img {
+      width: 300px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+    }
+    p {
+      max-width: 600px;
+      margin: 20px auto;
+      font-size: 1.1em;
+      line-height: 1.6;
+    }
+    footer {
+      margin-top: 40px;
+      padding: 10px;
+      background-color: #1b263b;
+      font-size: 0.9em;
+      color: #778da9;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Rocket League Fan Page</h1>
+  </header>
+
+  <main>
+    <img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Rocket_League_coverart.jpg" alt="Rocket League Cover Art">
+    <p>
+      Welcome to my Rocket League fan page! 🚗💨  
+      Rocket League is an exciting video game that combines soccer with rocket-powered cars. It’s fast-paced, competitive, and one of my favorite games to play with friends.
+    </p>
+    <p>
+      I love Rocket League because it’s a perfect mix of skill, teamwork, and creativity. Every match feels different — from amazing aerial shots to last-second saves. I enjoy learning new mechanics and improving my rank season by season.
+    </p>
+    <p>
+      Whether you play casually or competitively, Rocket League always delivers high-energy fun!
+    </p>
+  </main>
+
+  <footer>
+    <p>Created by [Your Name] • Hosted on GitHub Pages</p>
+  </footer>
+</body>
+</html>
